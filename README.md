@@ -40,11 +40,11 @@ The practice of unit testing (of which TDD is a subset) can greatly improve the 
 
 3. To open a menu of feeds, click on top left icon.
 
-4. Click on any of the rss entry to see that article's page.
+4. Click on any of the rss entries to see article's page.
 
 
 #### Documentation
 
-[Jasmine](http://jasmine.github.io/)
+[Jasmine](http://jasmine.github.io/).
 
 
