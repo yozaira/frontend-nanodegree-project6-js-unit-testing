@@ -3,7 +3,7 @@
 
 The main goal of this project is to write tests for a web-based <b>Feeds Reader Application</b> as a way to demonstrate the important role that unit testing plays in the development process.
 
-The practice of unit testing (of which TDD is a subset) can greatly improve the quality of developer's code, as it forces them to analyze multiple aspects of an application, including the HTML, CSS and JavaScript.
+The practice of unit testing (of which TDD is a subset) can greatly improve the quality of developers code, as it forces them to analyze multiple aspects of an application, including the HTML, CSS and JavaScript.
 
 #### Components
 
