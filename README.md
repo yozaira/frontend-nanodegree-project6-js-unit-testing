@@ -1,34 +1,35 @@
 
-### Overview
+#### Overview
 
 The main goal of this project is to write tests for a web-based <b>Feeds Reader Application</b> as a way to demonstrate the important role that unit testing plays in the development process.
 
 The practice of unit testing (of which TDD is a subset) can greatly improve the quality of developer's code, as it forces them to analyze multiple aspects of an application, including the HTML, CSS and JavaScript.
 
-### Components
+#### Components
 
-css
-  style.css
-  icomoon.css
-  normalize.css
-js
-  app.js
+<b>css</b>
+- style.css
+- icomoon.css
+- normalize.css
 
-jasmine
-	spec
-		feedreader.js
-	lib
-		jasmine-2.1.2/boot.js
-		jasmine-2.1.2/console.js
-		jasmine-2.1.2/jasmine.js
-		jasmine-2.1.2/jasmine-html.js
-		jasmine-2.1.2/jasmine.css
-		jasmine-2.1.2/favicon.png
+<b>js</b>
+ - app.js
 
-index.html
+<b>jasmine</b>
+- spec/feedreader.js
+
+<b>lib</b>
+- jasmine-2.1.2/boot.js
+- jasmine-2.1.2/console.js
+- jasmine-2.1.2/jasmine.js
+- jasmine-2.1.2/jasmine-html.js
+- jasmine-2.1.2/jasmine.css
+- jasmine-2.1.2/favicon.png
+
+<b>index.html</b>
 
 
-### Instructions
+#### Instructions
 
 1. The tests are all written in the jasmine/spec/feedreader.js file.
 
@@ -42,7 +43,7 @@ index.html
 4. Click on any of the rss entry to see that article's page.
 
 
-### Documentation
+#### Documentation
 
 [Jasmine](http://jasmine.github.io/)
 
